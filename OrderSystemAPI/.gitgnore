@@ -1,0 +1,12 @@
+
+/shelf/
+/workspace.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.OrderSystemAPI.iml
+/contentModel.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+*.zip
+*.idea/
