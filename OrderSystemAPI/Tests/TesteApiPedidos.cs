@@ -10,8 +10,8 @@ class TesteApiPedidos
             ""pedido_id"": ""12345"",
             ""cliente_id"": ""abcde"",
             ""itens"": [
-                { ""produto_id"": ""p01"", ""quantidade"": 2 },
-                { ""produto_id"": ""p02"", ""quantidade"": 1 }
+                { ""produto_id"": ""p1"", ""quantidade"": 2 },
+                { ""produto_id"": ""p2"", ""quantidade"": 1 }
             ],
             ""valor_total"": 150.00
         }";
